@@ -1,6 +1,6 @@
   ## Olá meu nome é Jhonata, sou desenvolvedor Front-End e UI/UX Designer.
   
-  <p>Estou disponível para <b>freelas/trabalho<b>, caso precise contratar meu serviço entre em contato<p>
+  <p>Estou disponível para <b>freelas/trabalho</b>, caso precise contratar meu serviço entre em contato<p>
   
   <p>🦄 Habilidades: HTML, CSS, Javascript, UX/UI Design<p>
   
