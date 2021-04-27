@@ -3,6 +3,8 @@
   <p>Estou disponível para <b>freelas/trabalho<b>, caso precise contratar meu serviço entre em contato<p>
   
   <p>🦄 Habilidades: HTML, CSS, Javascript, UX/UI Design<p>
+  
+  <p>📖 Ferramentas: Netlify, Figma, VS Code, Github for Desktop<p>
 <!--
 **JhonSilva17/JhonSilva17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
