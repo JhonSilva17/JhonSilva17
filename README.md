@@ -1,5 +1,4 @@
-### Hi there 👋
-
+##Olá meu nome é Jhonata, sou desenvolvedor Front-End e UI/UX Designer. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 <!--
 **JhonSilva17/JhonSilva17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
