@@ -1,4 +1,4 @@
- <h1 align="center"><img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/Dev.%20Jonh.svg" min-width="400px" max-width="400px" width="300px"  alt="Logo Dev.John"></h1>
+<p><img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/Dev.%20Jonh.svg" min-width="400px" align="center" max-width="400px" width="300px"  alt="Logo Dev.John"></p>
  
  <br>
  
