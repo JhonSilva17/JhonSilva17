@@ -1,4 +1,8 @@
- <img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/Dev.%20Jonh.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Logo Dev.John">
+ <h1 align="center"><img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/Dev.%20Jonh.svg" min-width="400px" max-width="400px" width="400px"  alt="Logo Dev.John"></h1>
+ 
+ <br>
+ 
+<img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/pc.svg" min-width="420px" max-width="400px" width="400px" align="right"  alt="Logo Imagem PC Dev.John">
  
  <p align="left">Olá meu nome é Jhonata, sou <strong>Dev Front-End</strong> e <strong>UI/UX Designer</strong>.</p>
   
@@ -15,7 +19,7 @@ Olá, meu nome é Jhonata, mas todos me conhecem como John. Tenho 18 anos de ida
 </p>
   
   <p>📖 Ferramentas: Netlify, Figma, VS Code, Git e Github<p>
-  
+ <br>
   <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jhon.dev.silva@gmail.com" /></a>
