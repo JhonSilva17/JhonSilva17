@@ -1,3 +1,5 @@
+ <img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/Dev.%20Jonh.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Logo Dev.John">
+ 
  <p align="left">Olá meu nome é Jhonata, sou <strong>Dev Front-End</strong> e <strong>UI/UX Designer</strong>.</p>
   
   <p align="left">
