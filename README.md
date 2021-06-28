@@ -2,17 +2,11 @@
  
  <br>
  
-<img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/pc.svg" min-width="100px" max-width="260px" width="400px" align="right"  alt="Logo Imagem PC Dev.John">
+ <h2 align="left">Olá, eu sou o John. </h2>
  
- <p align="left">Olá meu nome é Jhonata, sou <strong>Dev Front-End</strong> e <strong>UI/UX Designer</strong>.</p>
-  
-  <p align="left">
-Olá, meu nome é Jhonata, mas todos me conhecem como John. Tenho 18 anos de idade e sempre tive a vontade de criar coisas do zero.    Ver o que eu criei funcionar corretamente, bombardeava meu cérebro com dopamina.
-  </p>
-
-<p align="left">
-  Comecei a estudar programação web em <strong>2020</strong>, logo após o início da quarentena. Juntei a minha vontade de criar com a paixão por tecnologia, e aqui estou eu!
-</p>
+ <p>Seja bem vindo ao meu repositório. </p>
+ 
+ <p align="left">Sou <strong>Dev Front-End</strong> e <strong>UI/UX Designer</strong>.</p>
   
 <p align="left">
   🦄 Linguagens: <strong>HTML, CSS e Javascript</strong>
