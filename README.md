@@ -1,4 +1,4 @@
-  ## Olá meu nome é Jhonata, sou desenvolvedor Front-End e UI/UX Designer.
+  ## Olá meu nome é Jhonata, sou Dev Front-End e UI/UX Designer.
   
   <p>Olá, meu nome é Jhonata, mas todos me conhecem como John. Tenho 18 anos de idade e sempre tive a vontade de criar coisas do zero. Ver o que eu criei funcionar corretamente, bombardeava meu cérebro com dopamina.</p>
 
