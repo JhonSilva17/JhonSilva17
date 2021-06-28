@@ -2,7 +2,7 @@
  
  <br>
  
-<img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/pc.svg" min-width="300px" max-width="400px" width="400px" align="right"  alt="Logo Imagem PC Dev.John">
+<img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/pc.svg" min-width="100px" max-width="260px" width="400px" align="right"  alt="Logo Imagem PC Dev.John">
  
  <p align="left">Olá meu nome é Jhonata, sou <strong>Dev Front-End</strong> e <strong>UI/UX Designer</strong>.</p>
   
