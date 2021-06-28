@@ -1,10 +1,12 @@
   ## Olá meu nome é Jhonata, sou desenvolvedor Front-End e UI/UX Designer.
   
-  <p>Estou disponível para <b>freelas/trabalho</b>, caso precise contratar meu serviço entre em contato<p>
+  <p>Olá, meu nome é Jhonata, mas todos me conhecem como John. Tenho 18 anos de idade e sempre tive a vontade de criar coisas do zero. Ver o que eu criei funcionar corretamente, bombardeava meu cérebro com dopamina.</p>
+
+<p>Comecei a estudar programação web em 2020, logo após o início da quarentena. Juntei a minha vontade de criar, com a paixão por tecnologia, e aqui estou eu!</p>
   
   <p>🦄 Habilidades: HTML, CSS, Javascript, UX/UI Design<p>
   
-  <p>📖 Ferramentas: Netlify, Figma, VS Code, Github for Desktop<p>
+  <p>📖 Ferramentas: Netlify, Figma, VS Code, Git e Github<p>
 <!--
 **JhonSilva17/JhonSilva17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
