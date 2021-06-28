@@ -1,8 +1,8 @@
- <h1 align="center"><img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/Dev.%20Jonh.svg" min-width="400px" max-width="400px" width="400px"  alt="Logo Dev.John"></h1>
+ <h1 align="center"><img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/Dev.%20Jonh.svg" min-width="400px" max-width="400px" width="300px"  alt="Logo Dev.John"></h1>
  
  <br>
  
-<img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/pc.svg" min-width="420px" max-width="400px" width="400px" align="right"  alt="Logo Imagem PC Dev.John">
+<img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/pc.svg" min-width="300px" max-width="400px" width="400px" align="right"  alt="Logo Imagem PC Dev.John">
  
  <p align="left">Olá meu nome é Jhonata, sou <strong>Dev Front-End</strong> e <strong>UI/UX Designer</strong>.</p>
   
