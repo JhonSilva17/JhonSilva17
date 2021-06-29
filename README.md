@@ -15,16 +15,16 @@
   <p>📖 Ferramentas: Netlify, Figma, VS Code, Git e Github<p>
  <br>
   <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="jhon.dev.silva@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jhon.dev.silva@gmail.com" /></a>
     
-  <a href="#" alt="WhatsApp">
+  <a href="https://wa.me/557798631901" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/557798631901"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/jhonata.1324" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jhonata.1324/"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/eujohn___/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eujohn___/"/></a>
 </p>  
 <!--
