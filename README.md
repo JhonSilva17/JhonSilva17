@@ -9,7 +9,7 @@
  <p align="left">Sou <strong>Dev Front-End</strong> e <strong>UI/UX Designer</strong>.</p>
   
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, Javascript e SCSS</strong>
+  🦄 Linguagens: <strong>HTML, CSS, Javascript,  SCSS e Bootstrap</strong>
 </p>
   
   <p>📖 Ferramentas: Netlify, Figma, VS Code, Git e Github<p>
