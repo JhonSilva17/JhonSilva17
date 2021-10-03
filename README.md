@@ -15,7 +15,7 @@
   <p>📖 Ferramentas: Netlify, Figma, VS Code, Git e Github<p>
  <br>
   <p align="left">
-  <a href="jhon.dev.silva@gmail.com" target="_blank" alt="Gmail">
+  <a href="mailto:jhon.dev.silva@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jhon.dev.silva@gmail.com" /></a>
     
   <a href="https://wa.me/557798631901" target="_blank" alt="WhatsApp">
