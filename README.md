@@ -1,5 +1,11 @@
 <p><img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/Dev.%20Jonh.svg" min-width="400px" align="center" max-width="400px" width="300px"  alt="Logo Dev.John"></p>
  
+ <div align="center">
+  <a href="https://github.com/JhonSilva17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonSilva17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonSilva17&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
  <br>
  
  <h2 align="left">Olá, eu sou o John. </h2>
