@@ -1,5 +1,5 @@
 <div class="display-block">
- <img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/Dev.%20Jonh.svg" min-width="400px" align="center" max-width="400px" width="300px"  alt="Logo Dev.John">
+ <img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/Dev.%20Jonh.svg" min-width="260px" align="center" max-width="260px" width="260px"  alt="Logo Dev.John">
 </div>
  
  <h1>Olá, meu nome é John Silva</h1>
