@@ -19,4 +19,6 @@
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
- <p style="text-align: right">![Snake animation](https://github.com/JhonSilva17/JhonSilva17/blob/output/github-contribution-grid-snake.svg)</p>
+ ##
+ 
+![Snake animation](https://github.com/JhonSilva17/JhonSilva17/blob/output/github-contribution-grid-snake.svg)
