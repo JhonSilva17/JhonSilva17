@@ -1,5 +1,5 @@
 <div style="display: display-block;">
- <img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/Dev.%20Jonh.svg" min-width="260px" align="center" max-width="260px" width="260px"  alt="Logo Dev.John">
+ <img src="https://github.com/JhonSilva17/JhonSilva17/blob/main/Dev.%20Jonh.svg" min-width="100px" align="center" max-width="200px" width="200px"  alt="Logo Dev.John">
 </div>
  
  <h1>Olá, meu nome é John Silva</h1>
@@ -17,7 +17,3 @@
   <img align="center" alt="Rafa-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
- 
-##
-
-![Snake animation](https://github.com/JhonSilva17/JhonSilva17/blob/output/github-contribution-grid-snake.svg)
